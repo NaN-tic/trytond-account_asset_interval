@@ -1,0 +1,20 @@
+nantic_account_asset_interval
+=============================
+
+The account_asset_interval module of the Tryton application platform.
+
+Installing
+----------
+
+See INSTALL
+
+
+License
+-------
+
+See LICENSE
+
+Copyright
+---------
+
+See COPYRIGHT
